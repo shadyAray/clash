@@ -1,3 +1,4 @@
+#以下为游戏平台需要加速域名
 #Steam平台
 #不包含登陆
 DOMAIN,store.steampowered.com
@@ -18,8 +19,6 @@ DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,unrealengine.com
 
 #uplay平台
-# uplay登录
-#DOMAIN,public-ubiservices.ubi.com
 # uplay客户端更新（非游戏下载）
 DOMAIN,static3.cdn.ubi.com
 # uplay云同步
