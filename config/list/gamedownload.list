@@ -16,6 +16,8 @@ DOMAIN,steampipe.akamaized.net
 
 #育碧
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+# uplay登录
+DOMAIN,public-ubiservices.ubi.com
 
 #EPIC
 DOMAIN-KEYWORD,epic
