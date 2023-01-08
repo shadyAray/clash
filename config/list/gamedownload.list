@@ -19,5 +19,7 @@ DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 # uplay登录
 DOMAIN,public-ubiservices.ubi.com
 
+PROCESS-NAME,Ubisoft Connect.exe
+
 #EPIC
 DOMAIN-KEYWORD,epic
