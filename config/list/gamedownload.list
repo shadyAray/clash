@@ -15,7 +15,7 @@ DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steampipe.akamaized.net
 
 #育碧
-DOMAIN-KEYWORD,ubisoft
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 
 #EPIC
 DOMAIN-KEYWORD,epic
