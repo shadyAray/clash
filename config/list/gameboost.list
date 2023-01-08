@@ -1,10 +1,7 @@
 #Steam平台
 #不包含登陆
 DOMAIN,store.steampowered.com
-DOMAIN-SUFFIX,csgo.wmsj.cn
-DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,fanatical.com
-DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamcontent.com
