@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN,steamcommunity-a.akamaihd.net
 
 #Epic平台
 DOMAIN-SUFFIX,epicgames.com
