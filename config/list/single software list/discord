@@ -3,3 +3,5 @@ DOMAIN,media.discordapp.net
 DOMAIN-SUFFIX,discordapp
 DOMAIN-SUFFIX,discord.media
 DOMAIN-KEYWORD,discord
+DOMAIN-SUFFIX,tenor.com
+DOMAIN-KEYWORD,tenor
