@@ -38,13 +38,26 @@ DOMAIN,lb-upc-dmx.ubisoft.com
 DOMAIN,msr-api-ubiservices.ubi.com
 DOMAIN,dmx.upc.ubisoft.com
 
-#origin平台
-
-#暴雪战网
-DOMAIN,nydus.battle.net
-
 #Xbox
 DOMAIN,userpresence.xboxlive.com
 DOMAIN,xccs.xboxlive.com
 DOMAIN-KEYWORD,Xbox
+
+#Nintendo
+#数量：15条
+DOMAIN-SUFFIX,nintendo-europe.com
+DOMAIN-SUFFIX,nintendo.be
+DOMAIN-SUFFIX,nintendo.co.jp
+DOMAIN-SUFFIX,nintendo.co.uk
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.com.au
+DOMAIN-SUFFIX,nintendo.de
+DOMAIN-SUFFIX,nintendo.es
+DOMAIN-SUFFIX,nintendo.eu
+DOMAIN-SUFFIX,nintendo.fr
+DOMAIN-SUFFIX,nintendo.it
+DOMAIN-SUFFIX,nintendo.jp
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendo.nl
+DOMAIN-SUFFIX,nintendowifi.net
 
