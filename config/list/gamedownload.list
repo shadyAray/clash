@@ -18,3 +18,11 @@ DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
 
 #暴雪战网
 DOMAIN-KEYWORD,blizzard
+
+#Epic
+# 数量：5条
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgames.dev
+DOMAIN-SUFFIX,helpshift.com
+DOMAIN-SUFFIX,paragon.com
+DOMAIN-SUFFIX,unrealengine.com
