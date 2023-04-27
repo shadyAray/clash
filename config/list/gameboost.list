@@ -39,9 +39,13 @@ DOMAIN,msr-api-ubiservices.ubi.com
 DOMAIN,dmx.upc.ubisoft.com
 
 #Xbox
-DOMAIN,userpresence.xboxlive.com
-DOMAIN,xccs.xboxlive.com
-DOMAIN-KEYWORD,Xbox
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxab.net
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxservice.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,gamepass.com
 
 #Nintendo
 #数量：15条
