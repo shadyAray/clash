@@ -13,12 +13,6 @@ DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,api.steampowered.com
 
-#Epic平台
-DOMAIN-SUFFIX,epicgames.com
-DOMAIN-SUFFIX,ol.epicgames.com
-DOMAIN-SUFFIX,helpshift.com
-DOMAIN-SUFFIX,paragon.com
-DOMAIN-SUFFIX,unrealengine.com
 
 #uplay平台
 #uplay客户端更新（非游戏下载）
