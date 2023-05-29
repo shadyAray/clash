@@ -43,12 +43,6 @@ IP-CIDR,208.75.76.0/22,no-resolve
 
 
 
-#twitch
-DOMAIN-KEYWORD,twitch
-DOMAIN-SUFFIX,ttvnw.net
-
-
-
 
 #AmazonPrimeVideo
 DOMAIN-SUFFIX,amazon.com
