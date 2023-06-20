@@ -25,3 +25,4 @@ DOMAIN-SUFFIX,unrealengine.com
 #Uplay
 PROCESS-NAME,upc.exe
 PROCESS-NAME,UplayWebCore.exe
+DOMAIN-SUFFIX,ubisoft.com
