@@ -2,16 +2,15 @@
 #Steam平台
 #不包含登陆
 DOMAIN,store.steampowered.com
-DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steamstat.us
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN,steamcommunity-a.akamaihd.net
-DOMAIN,api.steampowered.com
+;DOMAIN-SUFFIX,steamgames.com
+;DOMAIN-SUFFIX,steamstat.us
+;DOMAIN-SUFFIX,steamstatic.com
+;DOMAIN-SUFFIX,steamusercontent.com
+;DOMAIN,steamcommunity-a.akamaihd.net
+;DOMAIN,api.steampowered.com
 
 #Xbox
 DOMAIN-SUFFIX,xbox.com
