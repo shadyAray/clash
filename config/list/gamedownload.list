@@ -17,6 +17,8 @@ DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
 
 #Epic
 PROCESS-NAME,EpicGamesLauncher.exe
+DOMAIN-KEYWORD,epic
+DOMAIN-KEYWORD,epicgames
 
 #Uplay
 PROCESS-NAME,upc.exe
