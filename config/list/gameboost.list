@@ -1,21 +1,21 @@
 #以下为游戏平台需要加速域名
 #Steam平台
 DOMAIN,store.steampowered.com
-DOMAIN-SUFFIX,steam-chat.com
+;DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamusercontent.com
+;DOMAIN-SUFFIX,steamcontent.com
+;DOMAIN-SUFFIX,steamgames.com
+;DOMAIN-SUFFIX,steamstatic.com
+;DOMAIN-SUFFIX,steamusercontent.com
 
 #Xbox
-DOMAIN-SUFFIX,xbox.com
-DOMAIN-SUFFIX,xboxab.com
-DOMAIN-SUFFIX,xboxab.net
-DOMAIN-SUFFIX,xboxlive.com
-DOMAIN-SUFFIX,xboxservice.com
-DOMAIN-SUFFIX,xboxservices.com
-DOMAIN-SUFFIX,gamepass.com
+;DOMAIN-SUFFIX,xbox.com
+;DOMAIN-SUFFIX,xboxab.com
+;DOMAIN-SUFFIX,xboxab.net
+;DOMAIN-SUFFIX,xboxlive.com
+;DOMAIN-SUFFIX,xboxservice.com
+;DOMAIN-SUFFIX,xboxservices.com
+;DOMAIN-SUFFIX,gamepass.com
 
 #Nintendo
 #数量：15条
