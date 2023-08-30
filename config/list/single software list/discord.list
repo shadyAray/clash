@@ -6,3 +6,4 @@ DOMAIN-KEYWORD,discord
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-KEYWORD,tenor
 PROCESS-NAME,Discord.exe
+PROCESS-NAME,Update.exe
