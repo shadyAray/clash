@@ -1,5 +1,8 @@
-#openAI
+#OpenAi
 DOMAIN,chat.openai.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN,openai.com
 DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX.openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN,challenges.cloudflare.com
