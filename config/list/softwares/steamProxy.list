@@ -1,0 +1,9 @@
+#Steam需要加速的功能
+#数量：7条
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamgames.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,akamaihd.net
