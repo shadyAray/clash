@@ -11,5 +11,5 @@ DOMAIN,alibaba.cdn.steampipe.steamcontent.com
 #Xbox大陆下载域名
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,assets2.xboxlive.cn
-dl.deliverry.mp.microsoft.com
-tlu.dl.delivery.mp.microsoft.com
+DOMAIN,dl.deliverry.mp.microsoft.com
+DOMAIN,tlu.dl.delivery.mp.microsoft.com
