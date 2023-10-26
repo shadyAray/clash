@@ -1,0 +1,15 @@
+#游戏平台直连域名
+#Steam
+DOMAIN-SUFFIX,steamserver.net
+#steam阿里云cdn
+DOMAIN,cdn-ali.content.steamchina.com
+DOMAIN,xz.pphimalayanrt.com
+DOMAIN,lv.queniujq.cn
+DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+
+
+#Xbox大陆下载域名
+DOMAIN,assets1.xboxlive.cn
+DOMAIN,assets2.xboxlive.cn
+dl.deliverry.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
