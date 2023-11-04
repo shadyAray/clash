@@ -3,3 +3,5 @@ PROCESS-NAME,upc.exe
 PROCESS-NAME,UplayWebCore.exe
 DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,ubi.com
+#下载
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
