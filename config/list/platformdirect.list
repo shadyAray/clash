@@ -16,3 +16,11 @@ DOMAIN,assets2.xboxlive.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN,dl.deliverry.mp.microsoft.com
 DOMAIN,tlu.dl.delivery.mp.microsoft.com
+
+#Uplay
+PROCESS-NAME,upc.exe
+PROCESS-NAME,UplayWebCore.exe
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,ubi.com
+#下载
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
