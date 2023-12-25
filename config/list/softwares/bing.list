@@ -1,4 +1,3 @@
 #必应搜索
 DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,cn.bing.com
-DOMAIN,cn.bing.com
+DOMAIN-KEYWORD.bing
