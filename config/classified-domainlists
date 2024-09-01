@@ -1,0 +1,26 @@
+Steam代理域名
+store.steampowered.com
+api.steampowered.com
+
+Google Gemini
+gemini.google.com
+
+EPIC
+battlebreakers.com
+eac-cdn.com
+easy.ac
+easyanticheat.net
+epicgames.com
+epicgames.dev
+fortnite.com
+paragon.com
+playparagon.com
+roborecall.com
+shadowcomplex.com
+spyjinx.com
+unrealengine.com
+unrealtournament.com
+
+regexp:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$ @cn
+regexp:^epicgames-download\d\.akamaized\.net$
+regexp:^epicgames-download\d-\d+\.file\.myqcloud\.com$ @cn
